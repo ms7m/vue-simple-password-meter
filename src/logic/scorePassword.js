@@ -30,7 +30,7 @@ const scorePassword = pass => {
       specialChar = 1
     }
 
-    if (pass.length > 8) {
+    if (pass.length > 10) {
       length = 1
     }
 
